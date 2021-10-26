@@ -1,5 +1,5 @@
 # DCGAN_MNIST
--dcgan \n
---checkpoints
---dataset
+-dcgan \
+--checkpoints \
+--dataset \
 --result
